@@ -28,5 +28,6 @@ Directory containing files related to classification in Data Science.
 
 8***SQL.pdf
 Directory containing files related to SQL (Structured Query Language), focusing on database management and querying.
+
 Feel free to explore, learn, and leverage these resources to enhance your knowledge in Data Science and Python programming. If you have any questions or suggestions, please don't hesitate to reach out.
                                                                                     ####Happy learning!####
